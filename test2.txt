@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi checking
+=======
+bad
+>>>>>>> 7767e1870a807891b07e7e1e7ffafd9fb62e283e
